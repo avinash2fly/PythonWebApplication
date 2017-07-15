@@ -1,2 +1,2 @@
 # PythonWebApplication
-Test build for python based web applicatioj
+Test build for python based web application
